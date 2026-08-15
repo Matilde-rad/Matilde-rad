@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Engineering+graduate+%40+FEUP;Currently+interning+%40+Intapp&font=Fira+Code&center=true&width=500&height=40&color=7AA2F7&vCenter=true&size=20)](https://git.io/typing-svg)
 
-I like building systems that watch other systems — the tooling that turns "something broke" into "here's what and why."
+I like designing solutions for problems and building systems that watch other systems — the tooling that turns "something broke" into "here's what and why."
 
 - 🔭 Currently interning at **Intapp**, building a Slack bot that turns Loki error logs into actionable alerts and dispatches AI agents to diagnose/fix issues
 - 🧪 Previously at **LTPlabs**, building an observability system (Grafana + Prometheus) for an internal workflow manager
